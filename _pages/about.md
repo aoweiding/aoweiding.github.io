@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yinkai Wang"
+title: "Aowei Ding"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
