@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yinkai Wang's Personal Website"
+title                    : "Aowei Ding's Personal Website"
 title_separator          : "-"
-name                     : &name "Yinkai Wang"
+name                     : &name "Aowei Ding"
 description              : &description "personal description"
-url                      : https://yinkaiw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://aoweiding.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yinkaiw/yinkaiw.github.io"
+repository               : "aoweiding/aoweiding.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yinkai Wang"
+  name             : "Aowei Ding"
   avatar           : "profile.png"
   bio              : "Student at George Mason University"
   location         : "Beijing"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "ywang88@gmu.edu"
+  email            : "ading@gmu.edu"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yinkaiw"
+  github           : "aoweiding"
   google_plus      :
   keybase          :
   instagram        :
