@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Yinkai Wang is a senior student major in  Computer Science at George Mason University. He has interests in multilingual Natural Language Processing, Machine Learning and CV. He works on Named Entity Recognition, Protein Structure Prediction, Molecule Generation and Educational Data Mining. He worked with [Dr. Antonios Anastasopoulos](https://cs.gmu.edu/~antonis/author/antonios-anastasopoulos/), [Dr. Liang Zhao](http://cs.emory.edu/~lzhao41/), [Dr. Amarda Shehu](https://cs.gmu.edu/~ashehu/?q=People). He participated in CCI as scholar with [Dr. Daniel Barbará](https://care.gmu.edu/barbara/). He act as intern in Peking University VDIG lab with [Dr. Yongtao Wang](https://dl.acm.org/profile/81486645230).
+Aowei Ding is a senior student major in  Computer Science at George Mason University. He has interests in Natural Language Processing, Machine Learning and Education Data Minig. He works on Named Entity Recognition, Protein Structure Prediction, Molecule Generation and Educational Data Mining. He act as intern in JD.COM R&D with [Dr. Lingfei Wu](https://sites.google.com/a/email.wm.edu/teddy-lfwu/).
 
 **Drop me an email if you'd like to talk about/collaborate on any of the following research topics with me.**
 
 **I am open to opportunities in paper review, tutorial, workshop organization in data mining, machine learning, multilingual Natural Language Processing, CV, Deep Graph Learning related topics.**
 
-Check out my [CV](https://yinkaiw.github.io/cv/)
-and [a pdf version](https://yinkaiw.github.io/files/CV-Yinkai Wang.pdf).
+Check out my [CV]()
+and [a pdf version]().
 
 
 
@@ -23,15 +23,9 @@ and [a pdf version](https://yinkaiw.github.io/files/CV-Yinkai Wang.pdf).
 **Research Interests**
   * Natural Language Processing
   * Deep Graph Learning
-  * Object Detection
-  * AI for Science (Biology/Physics/etc)
+  * Data Minig 
   * Machine Learning for Discovery 
 
 
 **News!**
-* 10/21 Paper titled “Deep Latent-Variable Models for Controllable Molecule Generation” has been accepted in BIBM 2021.
-* 10/18 Congrats to be selected to participate in CCI Scholars.
-* 8/7 Congrats to get top 20% on Kaggle competition 'Google Smartphone Decimeter Challenge'.
-* 5/22 I start working with Prof. Antonios Anastasopoulos on multilingual Natural Language Processing.
-* 4/21 Paper titled "Ensemble Machine Learning System for Student Academic Performance Prediction" is accepted by W4U workshop @EDM 2021.
-* 3/31 Accepted to be a ByteDance Intern.
+
